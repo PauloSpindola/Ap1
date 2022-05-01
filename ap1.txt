@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ut nibh facilisis, congue ipsum eu, consectetur leo. Cras id hendrerit quam. Vivamus mollis leo quis erat porta malesuada. Morbi eu mollis metus, non ornare nunc. Etiam non turpis eget libero aliquam porttitor et eget massa. Vivamus lacinia tellus sed ex dapibus imperdiet. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nunc eget metus lacinia, imperdiet magna in, lacinia eros. Nunc odio felis, egestas in tincidunt a, congue sed sapien. Curabitur sit amet fermentum felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec a accumsan magna. Nullam quis vehicula eros. Proin hendrerit commodo congue. Aenean imperdiet sapien a vestibulum gravida. Vivamus et efficitur nibh.
 
 Aenean sit amet ligula ac sapien sodales placerat. Integer viverra dui urna, vel feugiat est scelerisque imperdiet. In non leo venenatis, commodo nisi eget, dictum ex. Donec purus ligula, suscipit at mi id, vehicula facilisis lorem. Pellentesque auctor tellus nec eros faucibus auctor. Sed metus ante, ornare et libero eget, aliquet mattis magna. In vel metus ipsum. Cras et dolor sit amet erat venenatis lacinia.
@@ -34,3 +35,22 @@ Ut molestie maximus dictum. Donec venenatis dignissim justo, id vestibulum dui e
 Maecenas quis elit condimentum, ultricies velit quis, imperdiet ligula. Maecenas lacus neque, imperdiet eu sollicitudin sed, elementum et turpis. Mauris consequat, ligula id maximus semper, turpis quam egestas quam, ut tincidunt erat leo sit amet lectus. Vestibulum dictum, purus a fringilla rutrum, quam augue venenatis quam, vitae hendrerit velit purus in turpis. Sed dictum magna ac risus mollis posuere. Duis non ligula lectus. Vestibulum et condimentum odio. Integer faucibus sapien sit amet massa blandit, eget malesuada sem sollicitudin. Cras eu odio quis elit pretium rhoncus. Cras ac sodales quam. Fusce luctus mauris sit amet libero pulvinar facilisis. Sed quis malesuada felis.
 
 Vestibulum dui ipsum, mattis sed pretium non, tempor id augue. Sed fermentum a velit et luctus. Phasellus lacinia eget erat eget rutrum. Duis erat erat, vestibulum quis ipsum posuere, bibendum facilisis ante. Fusce sed sagittis diam. Aliquam erat volutpat. Phasellus sapien ante, laoreet id accumsan vel, tempor ut risus. Mauris volutpat, ante vestibulum pellentesque semper, ipsum ipsum ultricies tellus, vel egestas ligula massa sed metus. Morbi imperdiet vitae tortor non laoreet. Ut ut aliquet quam, vitae iaculis nibh. Nullam non ligula enim. Ut euismod fringilla finibus. Nullam et pulvinar tortor, in scelerisque magna. Morbi commodo sapien nec lectus tempus scelerisque. Suspendisse magna augue, consequat vitae dolor ut, gravida finibus lorem.
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alterações linha 15 . qofjwoivnewovbn
+
+Alterações linha 17 . oihwfqwbfgiuqwfb
+>>>>>>> feature_1
